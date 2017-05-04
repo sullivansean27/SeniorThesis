@@ -1,0 +1,1 @@
+To build the full Unity project, in the source code, unzip the archives in the ``unity" subdirectory and merge the two ``resources" folders. Then, replace the Assets folder in your Unity project file with this folder, open the scene file and build.
